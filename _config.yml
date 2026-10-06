@@ -1,0 +1,5 @@
+# GitHub Pages で配信しないファイル（Apps Script 用・手順書）。ドットで始まるファイルも配信されない
+exclude:
+  - Code.gs
+  - appsscript.json
+  - README_導入手順.md
